@@ -14,9 +14,11 @@ Je recherche activement un **stage en développement web et/ou mobile** du **7 a
 
 ## 📂 Projets notables
 
-### 🌍 Smart Campus - Gestion énergétique  
+### 🌍 Smart Campus - Gestion énergétique (Projet principal) 
+
 - Centralisation des données CO2/température/humidité  
-- Développement en **PHP, JavaScript, React**  
+- Développement en **PHP, JavaScript, React**
+- Gestion en équipe (méthodes agiles)
 - Rôle : **Chef de projet et développeur**
 
 ### 🎮 Shade of Brightness - Jeu Rétrogaming  
