@@ -1,75 +1,85 @@
 # 🚀 Nicolas Faugeres
-## 👨‍💻 À propos de moi
-Passionné par le développement web et mobile, je suis actuellement en **3ème année de BUT Informatique** à l'IUT de La Rochelle, avec une spécialisation en **développement full-stack**.  
-Toujours en quête de nouveaux défis, j'aime concevoir des solutions innovantes et optimiser l'expérience utilisateur.  
-Je suis actuellement en **alternance chez ALCO (Surgères)** jusqu'en septembre 2026, et je candidate activement à un **Master ou une École d'Ingénieurs** pour la suite de mon parcours.
+### 👨‍💻 Alternant Développeur / Chef de Projet IT
 
-## 🔧 Compétences techniques
+Passionné par la conception logicielle et le pilotage des systèmes d'information, je suis titulaire d'un **BUT Informatique** (parcours Développeur Full-Stack) et actuellement étudiant en **Master 1 MIAGE à l'Université de Bordeaux** (campus de Talence).  
+Après une expérience d'un an en alternance chez **ALCO (Surgères)** sur la refonte de processus logistiques métier, **je recherche activement une alternance** en tant que **Développeur Full-Stack / Chef de Projet IT** sur Bordeaux et sa métropole.
 
-- **Langages** : PHP, JavaScript, Python, C++, C, Swift, HTML/CSS
-- **Front-End** : React, Vue.js, Flutter
-- **Back-End** : Symfony, Node.js, GraphQL, API Platform
-- **Bases de données** : PostgreSQL, MySQL, MariaDB, MongoDB, Oracle, SQLite, Doctrine ORM
-- **Outils & DevOps** : Docker, Git (GitLab), JWT, DBeaver, VSCode, PhpStorm, Miro
-- **Méthodes** : Scrum/Agile, TDD, gestion de projet, analyse des besoins
+---
+
+## 🔧 Compétences techniques & Méthodes
+
+- **Gestion de projet & Méthodes** : Scrum/Agile, Cadrage & recueil des besoins, Miro, Documentation technique, TDD
+- **Front-End & Mobile** : React, Vue.js, Flutter, HTML5 / CSS3
+- **Back-End & API** : Symfony, PHP (Slim), Node.js, GraphQL, API Platform, REST
+- **Bases de données** : PostgreSQL, MariaDB, MySQL, MongoDB, Oracle, SQLite, IndexedDB, Doctrine ORM
+- **DevOps & Outils** : Docker, Git (GitLab CI/CD), Postman, JWT, DBeaver, VSCode, PhpStorm
+- **IA & No-Code** : Intégration de LLM, automatisation de flux, Prompt Engineering
+- **Langages** : PHP, JavaScript, Python, C++, C, Swift, Kotlin, Dart
+
+---
 
 ## 💼 Expériences professionnelles
 
 ### 🏢 Développeur Full-Stack — ALCO, Surgères *(Alternance · Sept. 2025 – Sept. 2026)*
-- Reprise, développement et déploiement du module **"Logistique"** du logiciel interne
-- Collaboration avec l'équipe technique : analyse des besoins et propositions de solutions
-- Stack : **PHP, Vue.js, PostgreSQL, API REST, JWT**
-- Outils : Docker, GitLab, DBeaver, Miro, VSCode
+- Digitalisation complète d'un processus logistique métier : remplacement du flux papier par une application **PWA Offline-First**
+- Capture photo embarquée, synchronisation asynchrone lors du retour réseau et gestion des droits multi-rôles (chauffeurs, gestionnaires, administration)
+- Analyse des besoins et prototypage itératif avec les utilisateurs finaux
+- Déploiement conteneurisé et pipeline CI/CD
+- **Stack** : Vue.js, PHP (Slim), PostgreSQL, IndexedDB, Docker, JWT, GitLab CI, BootstrapVue, Leaflet
 
-### 🎓 Chef de projet & Développeur — IUT de La Rochelle *(Stage · Avr. – Juin 2025)*
-- Création de A à Z d'un outil de gestion pour le kiosque de matériels du département
-- Conception et développement menés en **autonomie complète** avec méthode Agile/Scrum
-- Stack : **React, Node.js, PHP (Symfony, API Platform, Doctrine ORM), MariaDB**
-- Outils : Docker, GitLab, PhpStorm
+### 🎓 Responsable projet & Développeur — IUT de La Rochelle *(Stage · Avr. – Juin 2025)*
+- Création de bout en bout d'un outil de gestion pour le kiosque de matériels du département informatique
+- Conception, cadrage et développement menés en **autonomie complète** avec la méthode Agile/Scrum
+- **Stack** : React, Symfony, Node.js, MariaDB, API Platform, Doctrine ORM, Docker
 - 📁 Dépôt : [KIOSQUE-IUT](https://github.com/nicolas438/KIOSQUE-IUT/tree/V3-VersionFinale)
+
+---
 
 ## 📂 Projets notables
 
+### 🏛 Muséum d'Histoire Naturelle de La Rochelle *(2025-2026)*
+- Module applicatif interactif destiné à l'application officielle du musée
+- Recueil et cadrage du besoin avec les équipes du Muséum, conception UI/UX et développement itératif
+- **Rôle** : Responsable projet et développeur
+- **Stack** : Flutter (Dart), Symfony (API REST), Kotlin, Fastlane, Docker, GitLab CI/CD
+
 ### 🌍 Smart Campus — Gestion énergétique *(2024-2025)*
-- Plateforme web centralisant les données CO₂, température et humidité d'un bâtiment
-- Stack : **React, PHP (Doctrine ORM), C (ESP32), API**
-- Gestion en équipe de 4 via méthodes Agile/Scrum
-- Rôle : **Chef de projet et développeur**
-- - 📁 Dépôt : [Smart-Campus](https://github.com/nicolas438/Smart-Campus/tree/dev)
+- Plateforme web centralisant les flux de données environnementales de salles (CO₂, température, humidité)
+- Pilotage Scrum/Agile en équipe de 4 étudiants
+- **Rôle** : Chef de projet et développeur
+- **Stack** : React, PHP (Doctrine ORM), C (ESP32), API REST
+- 📁 Dépôt : [Smart-Campus](https://github.com/nicolas438/Smart-Campus/tree/dev)
 
-### 🎮 Shade of Brightness — Jeu Rétrogaming *(2023-2024)*
-- Jeu de type arcade développé en équipe de 4 étudiants
-- Stack : **C++**, outils : **QtCreator**
-- Rôle : **Chef de projet et développeur**
--  📁 Dépôt : [Shade of Brightness](https://github.com/nicolas438/RetroG24_A13_ShadeOfBrightness/tree/main)
+### 🎮 Shade of Brightness — Jeu arcade rétrogaming *(2023-2024)*
+- Jeu arcade développé en méthode Agile au sein d'une équipe de 4 étudiants
+- **Stack** : C++, Qt Creator
+- 📁 Dépôt : [Shade of Brightness](https://github.com/nicolas438/RetroG24_A13_ShadeOfBrightness/tree/main)
 
-### 🕹 PACMAN sur STM32 *(2023-2024)*
-- Recréation du jeu PAC-MAN sur **microcontrôleur STM32**
-- Développement en **C**, jouable via différents périphériques d'entrée
+### 🕹 PAC-MAN sur microcontrôleur STM32 *(2023-2024)*
+- Recréation du jeu PAC-MAN en programmation C bas niveau avec gestion des entrées et rafraîchissement d'affichage
 - 📁 Dépôt : [PACMAN](https://github.com/nicolas438/PACMAN/tree/main)
+
+---
 
 ## 🎓 Formations
 
-- **BUT Informatique 3ème année** — Parcours DFS (Développeur Full-Stack) · IUT de La Rochelle *(2023–2026)*
+- **Master MIAGE** (Méthodes Informatiques Appliquées à la Gestion des Entreprises) — Université de Bordeaux, Talence *(2026–2028)*
+- **BUT Informatique** — Parcours Développeur Full-Stack · IUT de La Rochelle *(2023–2026)*
 - **Baccalauréat général** — Spécialités Mathématiques & NSI · Lycée Stendhal, Aiguillon *(2023)*
+
+---
 
 ## 🌍 Langues
 
-- Français : **Natif**
-- Anglais : **C1**
-- Espagnol : **B2**
-
-## 🎯 Objectifs
-
-- Intégrer un **Master ou une École d'Ingénieurs** en développement logiciel
-- Continuer à concevoir des applications web robustes et des expériences utilisateur soignées
-- Relever de nouveaux défis techniques, notamment en architecture et DevOps
-
-## 📞 Me contacter
-
-📧 **Mail** : [nfaugeres@gmail.com](mailto:nfaugeres@gmail.com)  
-📱 **Téléphone** : 06 02 30 37 92  
-📍 **Localisation** : La Rochelle, France  
+- **Français** : Natif
+- **Anglais** : B2-C1
+- **Espagnol** : B2
 
 ---
-🚀 **Ouvert aux opportunités et collaborations** ! N'hésitez pas à me contacter pour échanger sur vos projets.
+
+## 📞 Contact & Liens
+
+- 🌐 **Portfolio** : [nicolasfaugeres.netlify.app](https://nicolasfaugeres.netlify.app)
+- 📧 **Mail** : [nfaugeres@gmail.com](mailto:nfaugeres@gmail.com)
+- 📱 **Téléphone** : 06 02 30 37 92
+- 📍 **Localisation** : Bordeaux / Talence, France
